@@ -1,4 +1,4 @@
-# Paris Olympics_2024 🏅
+# Paris Olympics_2024 
 
 # Dashboard Link - https://app.fabric.microsoft.com/links/kwM---0bMB?ctid=c1c2a42b-112a-4acf-a491-34ba46ae14eb&pbi_source=linkShare&bookmarkGuid=e3023b78-3ce2-4c7c-8fe3-ab0c605985a0
 
